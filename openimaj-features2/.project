@@ -1,0 +1,13 @@
+<projectDescription>
+  <name>openimaj-features2</name>
+  <comment>OpenIMAJ (Open Intelligent Multimedia in Java) is a collection of libraries and tools for multimedia analysis written in the Java programming language. OpenIMAJ intends to be the first truly complete multimedia analysis library and contains modules for analysing images, videos, text, audio and even webpages. The OpenIMAJ image and video analysis and feature extraction modules contain methods for processing visual content and extracting state-of-the-art features, including SIFT. The OpenIMAJ clustering and nearest-neighbour libraries contain efficient, multi-threaded implementations of clustering algorithms including Hierarchical K-Means and Approximate K-Means. The clustering library makes it possible to easily create visual-bag-of-words representations for images and video with very large vocabularies. The text-analysis modules contain implementations of a statistical language classifier and low-level processing pipeline. A number of modules deal with content creation, including interactive slideshows and animations. The hardware integration modules allow cross-platform integration with devices including webcams, the Microsoft Kinect, and even devices such as GPS&apos;s. OpenIMAJ also incorporates a number of tools to enable extremely-large-scale multimedia analysis using a distributed computing approach based on Apache Hadoop.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
